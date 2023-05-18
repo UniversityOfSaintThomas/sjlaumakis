@@ -14,22 +14,22 @@
 <H2 ALIGN=CENTER><HR></H2>
 
 <UL>
-  <LI><A HREF="HPPCSYL.html">SYLLABUS</A>
-  <LI><A HREF="HPPCOUTLINE.HTML">OUTLINE</A>
-  <LI><A HREF="HPPCCLASSSCHED.html">CLASS SCHEDULE</A>
-  <LI><A HREF="HPPCPAPERASSIGN.html">PAPER ASSIGNMENTS</A><A HREF="HPPAPERASSIGN.html">
+  <LI><A href="hppcsyl.html">SYLLABUS</A>
+  <LI><A href="hppcoutline.html">OUTLINE</A>
+  <LI><A href="hppcclasssched.html">CLASS SCHEDULE</A>
+  <LI><A href="hppcpaperassign.html">PAPER ASSIGNMENTS</A><A href="hppaperassign.html">
   </A>
-  <LI><A HREF="http://eawc.evansville.edu/anthology/analects.htm">THE ANALECTS</A>
-  <LI><A HREF="LOGICI.html">LOGIC I</A>
-  <LI><A HREF="http://www.stthomas.edu/phil/tutor.htm">TUTOR SCHEDULE</A>
-  <LI><A HREF="PHAEDO.HTML">PHEADO</A>
-  <LI><A HREF="PLATOSCAVE.HTML">PLATO'S CAVE</A>
-  <LI><A HREF="LOGICII.HTML">LOGIC II</A>
-  <LI><A HREF="LUCRETIUS.HTML">LUCRETIUS</A>
-  <LI><A HREF="DESCARTES.HTML">DESCARTES</A>
-  <LI><A HREF="BERKELEY.HTML">BERKELEY</A>
-  <LI><A HREF="AQUINASHP.HTML">AQUINAS</A>
-  <LI><A HREF="http://webcampus.stthomas.edu/phil/logic/student/main.cfm">WEB
+  <LI><A href="http://eawc.evansville.edu/anthology/analects.htm">THE ANALECTS</A>
+  <LI><A href="logici.html">LOGIC I</A>
+  <LI><A href="http://www.stthomas.edu/phil/tutor.htm">TUTOR SCHEDULE</A>
+  <LI><A href="phaedo.html">PHEADO</A>
+  <LI><A href="platoscave.html">PLATO'S CAVE</A>
+  <LI><A href="logicii.html">LOGIC II</A>
+  <LI><A href="lucretius.html">LUCRETIUS</A>
+  <LI><A href="descartes.html">DESCARTES</A>
+  <LI><A href="berkeley.html">BERKELEY</A>
+  <LI><A href="aquinashp.html">AQUINAS</A>
+  <LI><A href="http://webcampus.stthomas.edu/phil/logic/student/main.cfm">WEB
   BASED LOGIC EXERCISES</A>
 </UL>
 </BODY>
